@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Essay
+title: personalArticles
 slug: essay
 menu: true
 submenu: false
-order: 4
+order: 1
 description: >
-  평소 생각과 쓰고싶은 글을 씁니다.
+  개인 글
 ---
