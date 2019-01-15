@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               lazyker
+title:               이하닝
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,12 +13,12 @@ url:                 https://lazyker.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             A living developer
+tagline:             A Living Developer
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  A living developer
+  추억을 하고 기억을 하기 위해 존재 합니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
