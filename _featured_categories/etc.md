@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Diary
-slug: diary
+title: Etc
+slug: etc
 menu: true
 submenu: false
-order: 1
+order: 3
 description: >
-  개인 글
+  기타 글
 ---

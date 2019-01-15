@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               이하닝
+title:               ihanee_e
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -18,7 +18,7 @@ tagline:             A Living Developer
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  추억을 하고 기억을 하기 위해 존재 합니다.
+  - 내 입맛대로 블로깅 하기 -
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
