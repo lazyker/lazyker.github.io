@@ -14,7 +14,7 @@ order: 10
 
 ## 관심 기술
 - ```Javascript```, ```Nodejs```, ```Java```, ```Spring```, ```BlockChain```, ```ElasticSearch``` 
-- ```AWS```, ```MongoDB```, ```MySql```, ```MsSql```, ```Jpa```
+- ```AWS```, ```MongoDB```, ```MySql```, ```MsSql```, ```Redis```, ```Jpa```
 - ```Kafka```, ```Spark```, ```ReactNative```, ```GraphQL```, ```Vue```, ```ngrinder```
 - ```Docker```, ```Kubernetes```, ```Go```, ```PlantUml```
 
