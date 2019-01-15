@@ -1,6 +1,6 @@
 ---
 layout: list
-title: personalArticles
+title: Diary
 slug: essay
 menu: true
 submenu: false
