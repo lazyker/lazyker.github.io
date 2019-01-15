@@ -7,7 +7,7 @@ order: 10
 
 ## 소개
 
-* Github: https://github.com/lazyker
+* Github: [https://github.com/lazyker](https://github.com/lazyker)
 * mail: lazyker@naver.com
 - [Chaining](https://github.com/cchaining) (체이닝) - BlockChain 모임
 - April - 개발자 모임
@@ -18,9 +18,3 @@ order: 10
 - ```Javascript```, ```Nodejs```, ```Java```, ```Spring```, ```BlockChain```, ```ElasticSearch``` 
 - ```AWS```, ```MongoDB```, ```MySql```, ```MsSql```, ```Jpa```
 - ```Kafka```, ```Spark```, ```ReactNative```, ```GraphQL```, ```Vue```, ```ngrinder```
-
-## 사이드프로젝트
-
-- Comming Soon
-
-- [48Wedding](http://48wedding.com) - 웨딩카드 만들기 서비스

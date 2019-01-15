@@ -1,0 +1,46 @@
+
+# webstorm config
+.idea
+
+# log files
+npm-debug.log*
+/log
+
+# dependency modules
+node_modules
+
+# local config
+.env
+test.env
+
+# tmp directories
+.tmp
+dist
+
+# archives
+*.zip
+
+# multipart
+/uploads
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Redis
+dump.rdb
+
+# yarn
+yarn-error.log
+
+# coverage test
+coverage
+.nyc_output
+
+# eslint
+eslint.xml
+
+# test-result
+test-result.xml
+test-result.tap
