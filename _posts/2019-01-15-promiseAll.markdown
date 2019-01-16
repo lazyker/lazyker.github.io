@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "[Refactoring] Promise 병렬처리"
+title:  "[CodeReview] Promise 병렬처리"
 subtitle:   "병렬처리"
 categories: doc
 tags: nodejs
+comments: true
 ---
 
 ## Promise.all 
@@ -179,5 +180,5 @@ const [one, two] = await Promise.all([
 };
 ```
 
-## 결론
+## 마무리
 충분히 성능 개선에 도움이 될 수 있음으로 최초에 코드를 작성 할 때 고려해서 개발할 수 있으면 하자.!
