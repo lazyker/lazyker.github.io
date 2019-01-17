@@ -47,7 +47,7 @@ google_fonts:        Lato
 google_analytics:    UA-132539052-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    ihanee_e
+disqus_shortname:    ihanee-e
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2019. by ihanee_e'
