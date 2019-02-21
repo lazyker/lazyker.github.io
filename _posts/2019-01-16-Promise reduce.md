@@ -7,6 +7,7 @@ tags: nodejs
 ---
 
 ## Promise 를 reduce 로 순차적으로 처리하여 결과값을 누적 반환하는 예시 코드 
+Promise 를 reduce 로  순차적으로 처리하여 결과값을 누적 반환해보자.
 ```js
 (async () => {
 const sleep = (n) => new Promise((resolve) => setTimeout(resolve, n * 1000));
